@@ -1,7 +1,7 @@
 {
   "script_version": "1",
-  "uuid": "rock5-omv-bookworm",
-  "name": "Armbian OMV Bookworm (Rock 5 ITX)",
+  "uuid": "rock5-bookworm-openmediavault",
+  "name": "Armbian with OpenMediaVault for Radxa Rock5 ITX",
   "img": "https://www.armbian.com/wp-content/uploads/2024/06/debian-logo.svg",
   "description": {
     "en": "Official Armbian Bookworm Minimal image with OpenMediaVault preinstalled."
