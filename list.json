@@ -1,10 +1,5 @@
 [
   {
-    "uuid": "rock5-bookworm-openmediavault",
-    "name": "Armbian with OpenMediaVault for Radxa Rock5 ITX",
-    "url": "https://JackBinary.github.io/roobi-images/rock5-omv.json"
-  },
-  {
     "uuid": "rock5-bookworm-minimal",
     "name": "Armbian Minimal for Radxa Rock5 ITX",
     "url": "https://JackBinary.github.io/roobi-images/rock5-minimal.json"
