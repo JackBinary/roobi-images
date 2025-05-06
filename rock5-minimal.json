@@ -1,0 +1,27 @@
+{
+  "script_version": "1",
+  "uuid": "rock5-bookworm-minimal",
+  "name": "Armbian Minimal for Radxa Rock5 ITX",
+  "img": "https://www.armbian.com/wp-content/uploads/2024/06/debian-logo.svg",
+  "description": {
+    "en": "Minimal headless Armbian Bookworm image for vendor kernel 6.1.99. Optimized for CLI/server use."
+  },
+  "version": "25.2.2",
+  "author": "Armbian Team / Uploaded by JackBinary",
+  "date": "2025-05-06",
+  "download": [
+    {
+      "file_name": "Armbian_25.2.2_Rock-5-itx_bookworm_vendor_6.1.99_minimal.img.xz",
+      "size": 256008828,
+      "urls": [
+        "https://github.com/JackBinary/roobi-images/releases/download/25.2.2/Armbian_25.2.2_Rock-5-itx_bookworm_vendor_6.1.99_minimal.img.xz"
+      ],
+      "md5": "538fd023ebbfc1e4b655af2eb656c066"
+    }
+  ],
+  "scripts": [
+    {
+      "type": "auto"
+    }
+  ]
+}
