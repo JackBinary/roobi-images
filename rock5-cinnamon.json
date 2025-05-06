@@ -1,0 +1,27 @@
+{
+  "script_version": "1",
+  "uuid": "rock5-bookworm-cinnamon",
+  "name": "Armbian Cinnamon Desktop for Radxa Rock5 ITX",
+  "img": "https://upload.wikimedia.org/wikipedia/commons/6/65/Cinnamon-logo.svg",
+  "description": {
+    "en": "Armbian Bookworm with Cinnamon desktop (vendor kernel 6.1.99, backported MESA). Modern UI with good GPU support."
+  },
+  "version": "25.2.2",
+  "author": "Armbian Team / Uploaded by JackBinary",
+  "date": "2025-05-06",
+  "download": [
+    {
+      "file_name": "Armbian_25.2.2_Rock-5-itx_bookworm_vendor_6.1.99_cinnamon-backported-mesa_desktop.img.xz",
+      "size": 1504104936,
+      "urls": [
+        "https://github.com/JackBinary/roobi-images/releases/download/25.2.2/Armbian_25.2.2_Rock-5-itx_bookworm_vendor_6.1.99_cinnamon-backported-mesa_desktop.img.xz"
+      ],
+      "md5": "3c3250760441a1c9ef52d811a01fa168"
+    }
+  ],
+  "scripts": [
+    {
+      "type": "auto"
+    }
+  ]
+}
