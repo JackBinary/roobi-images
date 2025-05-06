@@ -1,0 +1,27 @@
+{
+  "script_version": "1",
+  "uuid": "rock5-bookworm-xfce",
+  "name": "Armbian XFCE Desktop for Radxa Rock5 ITX",
+  "img": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Xfce_logo.svg",
+  "description": {
+    "en": "Armbian Bookworm with XFCE desktop environment and vendor kernel 6.1.99. Lightweight but full-featured GUI."
+  },
+  "version": "25.2.2",
+  "author": "Armbian Team / Uploaded by JackBinary",
+  "date": "2025-05-06",
+  "download": [
+    {
+      "file_name": "Armbian_25.2.2_Rock-5-itx_bookworm_vendor_6.1.99_xfce_desktop.img.xz",
+      "size": 1447040420,
+      "urls": [
+        "https://github.com/JackBinary/roobi-images/releases/download/25.2.2/Armbian_25.2.2_Rock-5-itx_bookworm_vendor_6.1.99_xfce_desktop.img.xz"
+      ],
+      "md5": "31f4642a8f3d45153484121816c66840"
+    }
+  ],
+  "scripts": [
+    {
+      "type": "auto"
+    }
+  ]
+}
