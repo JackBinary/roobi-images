@@ -1,7 +1,22 @@
 [
   {
-    "uuid": "rock5-omv-bookworm-001",
-    "name": "Armbian OMV Bookworm (Rock 5 ITX)",
+    "uuid": "rock5-bookworm-openmediavault",
+    "name": "Armbian with OpenMediaVault for Radxa Rock5 ITX",
     "url": "https://JackBinary.github.io/roobi-images/rock5-omv.json"
-  }
+  },
+  {
+    "uuid": "rock5-bookworm-minimal",
+    "name": "Armbian Minimal for Radxa Rock5 ITX",
+    "url": "https://JackBinary.github.io/roobi-images/rock5-minimal.json"
+  },
+  {
+    "uuid": "rock5-bookworm-xfce",
+    "name": "Armbian XFCE Desktop for Radxa Rock5 ITX",
+    "url": "https://JackBinary.github.io/roobi-images/rock5-xfce.json"
+  },
+  {
+    "uuid": "rock5-bookworm-cinnamon",
+    "name": "Armbian Cinnamon Desktop for Radxa Rock5 ITX",
+    "url": "https://JackBinary.github.io/roobi-images/rock5-cinnamon.json"
+  },
 ]
