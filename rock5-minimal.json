@@ -2,7 +2,7 @@
   "script_version": "1",
   "uuid": "rock5-bookworm-minimal",
   "name": "Armbian Minimal for Radxa Rock5 ITX",
-  "img": "https://www.armbian.com/wp-content/uploads/2024/06/debian-logo.svg",
+  "img": "https://upload.wikimedia.org/wikipedia/commons/6/66/Openlogo-debianV2.svg",
   "description": {
     "en": "Minimal headless Armbian Bookworm image for vendor kernel 6.1.99. Optimized for CLI/server use."
   },
