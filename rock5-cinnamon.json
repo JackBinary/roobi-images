@@ -2,7 +2,7 @@
   "script_version": "1",
   "uuid": "rock5-bookworm-cinnamon",
   "name": "Armbian Cinnamon Desktop for Radxa Rock5 ITX",
-  "img": "https://upload.wikimedia.org/wikipedia/commons/6/65/Cinnamon-logo.svg",
+  "img": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Cinnamon-logo.svg",
   "description": {
     "en": "Armbian Bookworm with Cinnamon desktop (vendor kernel 6.1.99, backported MESA). Modern UI with good GPU support."
   },
