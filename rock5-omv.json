@@ -14,7 +14,7 @@
       "file_name": "Armbian_25.2.3_Rock-5-itx_bookworm_vendor_6.1.99-omv_minimal.img.xz",
       "size": 324669508,
       "urls": [
-        "https://dl.armbian.com/rock-5-itx/Bookworm_vendor_minimal-omv/Armbian_25.2.3_Rock-5-itx_bookworm_vendor_6.1.99-omv_minimal.img.xz"
+        "https://github.com/JackBinary/roobi-images/releases/download/Armbian_25.2.3_Rock-5-itx_bookworm_vendor_6.1.99-omv_minimal/Armbian_25.2.3_Rock-5-itx_bookworm_vendor_6.1.99-omv_minimal.img.xz"
       ],
       "md5": "13cfdc6b95e9f7d0f7cd84e6731b99ee"
     }
